@@ -1,6 +1,10 @@
-# Hello, world 💻
-I'm Lourdes Badillo, a Computer Science student.
-## Github Statistics
+### Hello, world 💻
+- 👋 I'm Lulu Badillo
+- 💻 I study Computer Science  
+- ✨ I'm interested in programming, design, education and accessibility
+- 🚀 I love STEM communities, I co-founded a <a href="https://hackclub.com/">Hack Club</a>, I participatd in FIRST 🤖 and I love working on resources to share with others
+
+### GitHub Statistics
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=louloubadillo&layout=compact&count_private=true&theme=vue-dark&show_icons=true"> <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louloubadillo&count_private=true&layout=compact&theme=vue-dark"> 
 
 <!--
