@@ -4,8 +4,7 @@
 - ✨ I'm interested in programming, design, education and accessibility
 - 🚀 I love STEM communities, I co-founded a <a href="https://hackclub.com/">Hack Club</a>, I was part of my high school's FIRST team🤖 and I love working on resources to share with others
 
-### GitHub Statistics
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=louloubadillo&layout=compact&count_private=true&theme=vue-dark&show_icons=true"> <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louloubadillo&count_private=true&layout=compact&theme=vue-dark"> 
+
 
 <!--
 **louloubadillo/louloubadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### GitHub Statistics
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=louloubadillo&layout=compact&count_private=true&theme=vue-dark&show_icons=true"> <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louloubadillo&count_private=true&layout=compact&theme=vue-dark"> 
 -->
