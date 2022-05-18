@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - ✨ I'm interested in **programming, design, education and accessibility**
 
-- 🚀 I love STEM communities, I co-founded a <a href="https://hackclub.com/">Hack Club</a>, I was part of my high school's FIRST team🤖 and I love working on resources to share with others
+- 🚀 I love STEM communities: I co-founded a <a href="https://hackclub.com/">Hack Club</a>, I was part of my high school's FIRST team🤖 and I like working on resources to share with others
 
 - 💯 I enjoy new challenges, some of the things I have done to get myself out of my comfort zone are: participating in hackathons, writing a blog, public speaking, participating in entrepreneurship projects and courses, robotics competitions, and tutoring
 
